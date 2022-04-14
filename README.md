@@ -1,7 +1,7 @@
 # REST JSON dengan PHP:fire:
 
 catatan: tugas kali ini terdapat 2 file php(helper_connect & wsp_wunjoess) dan 1 file sql(product) <br>
-file dapat diakses pada `webservicebagus.ml` atau di `github/bagussatriakusuma/Tugas-REST-JSON-dengan-PHP`
+file dapat diakses pada `webservicebagus.ml` atau di `github.com/bagussatriakusuma/Tugas-REST-JSON-dengan-PHP`
 
 NIM     : 19.01.53.0014 <br>
 NAMA    : Bagus Satria Kusuma <br>
